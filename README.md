@@ -1,5 +1,5 @@
-# Last-minute interviews
-Ready for a job interview but haven't had one in years? This file is designed to help people prepare for the most commonly asked questions in **minutes**.
+# Last-minute interview prep
+Ready for a job interview but haven't had one in years? This file is designed to help people review the most frequently asked questions in **minutes**.
 
 Below is a list of questions I've been asked in my past interviews. If you find any frequently asked questions not listed here, send in a PR!
 
