@@ -1,4 +1,4 @@
-# Last minute interview
+# Last-minute interviews
 Ready for a job interview but haven't had one in years? This file is designed to help people prepare for the most commonly asked questions in **minutes**.
 
 Below is a list of questions I've been asked in my past interviews. If you find any frequently asked questions not listed here, send in a PR!
@@ -24,13 +24,13 @@ Below is a list of questions I've been asked in my past interviews. If you find 
 ## Behavioral questions
 * The biggest achievement in your previous projects
 
-* Tell me about a time
+* Tell me about a time when you
 
-  * when you've faced the most challenging problem
-  * when you had a conflict (with your manager/a team member)
-  * you met a tight deadline
-  * you failed at work
-  * you received constructive feedback
+  * faced a difficult challenge
+  * had a conflict (with your manager/a team member)
+  * met a tight deadline
+  * failed at work
+  * received constructive feedback
 
 ## Technical questions
 * Work in progress
