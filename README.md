@@ -1,5 +1,7 @@
 # Last minute interview
-Ready to hop an interview call but haven't had any in recent years? This file aims to help people prepare for the most asked questions in **minutes**.
+Ready for a job interview but haven't had one in years? This file is designed to help people prepare for the most commonly asked questions in **minutes**.
+
+Below is a list of questions I've been asked in my past interviews. If you find any frequently asked questions not listed here, send in a PR!
 
 ## The basics
 * Job titles / descriptions
@@ -20,13 +22,21 @@ Ready to hop an interview call but haven't had any in recent years? This file ai
 </details>
 
 ## Behavioral questions
-* Work in progress
+* The biggest achievement in your previous projects
+
+* Tell me about a time
+
+  * when you've faced the most challenging problem
+  * when you had a conflict (with your manager/a team member)
+  * you met a tight deadline
+  * you failed at work
+  * you received constructive feedback
 
 ## Technical questions
 * Work in progress
 
 ## Questions to ask interviewers
-:warning: Different types of questions are suitable for asking in different situations (e.g. recruiters or senior management). Some sample questions to ask (more questions to [ask](https://www.techinterviewhandbook.org/final-questions/)):
+:warning: Different types of questions are appropriate to ask in different situations (e.g. hiring managers or senior management). Some sample questions to ask (more questions to [ask](https://www.techinterviewhandbook.org/final-questions/)):
 
 * What are the company's highest priority goals this year, and how would my role contribute?
 * What do you expect me to accomplish in the first 90 days?
